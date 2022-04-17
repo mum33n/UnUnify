@@ -55,9 +55,9 @@ body{
 
 
 }
-/* .banner{
-    background-image: url('./assets/grid.jpg');
-} */
+.banner{
+    position: relative;
+}
 .man{
     position: absolute !important;
     left: 0 !important;
